@@ -2,7 +2,7 @@
 
 A Telegram bot built with [Aiogram 3](https://docs.aiogram.dev/en/latest/) that serves news articles from local JSON files. It features an interactive inline keyboard interface, allowing users to browse news categories and read paginated posts with attached images.
 
-## Features
+## 🚀 Features
 
 *   **Interactive Menus**: Browse available news categories using dynamically generated inline keyboards.
 *   **Pagination**: Easily navigate through multiple news posts within a category using "Next" and "Previous" buttons (displays 5 posts per page).
